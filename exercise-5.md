@@ -3,7 +3,7 @@
 
     a. Explore Queries UI
 
-![queries](images/queries.GIF)
+![queries](images/queries-new.GIF)
     
     b. Explore Dashboards UI
     c. Review & setup widgets
