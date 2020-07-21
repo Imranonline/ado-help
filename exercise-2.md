@@ -14,7 +14,7 @@
 
 
     c. Estimate story points for user stories
-GIF
+
 ![estimate story points](images/estimate-story-points.GIF)
 
 

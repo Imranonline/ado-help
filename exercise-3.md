@@ -19,7 +19,8 @@
 
     d. Task breakdown for selected sprint stories with task level estimates (hours)
 
-![Estimate Story Points](images/estimate-story-points.GIF)
+![Add Task Efforts Points](images/add-task-efforts.GIF)
+
 
     e. Assign Task to Team Members
 
