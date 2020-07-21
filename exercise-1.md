@@ -4,13 +4,13 @@
 
     a. Create a new private project with ‘Agile’ process
 
-![Create a new Project](images/create-new-project.gif)
+![Create a new Project](images/create-new-project.GIF)
 
     b.Create two teams underneath
 
-![Create a new Team](images/create-new-team.gif)
+![Create a new Team](images/create-new-team.GIF)
 
     c. Add Team Members
 
 
-![Add Team Members](images/add-team-members.gif)
+![Add Team Members](images/add-team-members.GIF)
