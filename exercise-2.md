@@ -10,10 +10,10 @@
 
     b. Create few unparented stories and map them to features later
 
-![Work item Mapping](images/epic-feature-story-mapping.gif)
+![Work item Mapping](images/epic-feature-story-mapping.GIF)
 
 
     c. Estimate story points for user stories
-
-![estimate story points](images/estimate-story-points.gif)
+GIF
+![estimate story points](images/estimate-story-points.GIF)
 
