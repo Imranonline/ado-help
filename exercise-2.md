@@ -6,7 +6,7 @@
 
 
 
-![Create epic feature story](images/create-epic-feature-story.gif)
+![Create epic feature story](images/create-epic-feature-story.GIF)
 
     b. Create few unparented stories and map them to features later
 
