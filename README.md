@@ -19,5 +19,7 @@ Make sure you do these in your respective instance and in the team project you w
 
 
 [Scrum guide](https://www.scrum.org/resources/scrum-guide)
+
 [Agile Manisfesto](https://agilemanifesto.org/)
+
 [Planning Poker](https://www.planningpoker.com/)
