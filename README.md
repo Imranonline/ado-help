@@ -16,3 +16,8 @@ Make sure you do these in your respective instance and in the team project you w
 5. Exercise 5 - [Iteration Review](https://github.com/Imranonline/ado-help/blob/master/exercise-5.md)
 
 **** [Microsofts Official Documentation](https://docs.microsoft.com/en-in/azure/devops/boards/?view=azure-devops)
+
+
+[Scrum guide](https://www.scrum.org/resources/scrum-guide)
+[Agile Manisfesto](https://agilemanifesto.org/)
+[Planning Poker](https://www.planningpoker.com/)
