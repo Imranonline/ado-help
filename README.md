@@ -1,5 +1,5 @@
-# Hand book for Azure DevOps Board Trainingsss
 
+# Hand book for Azure DevOps Board Trainings
 This guide will help you during the training to understand how a task has been executed in the exercise section.
 
 >[!WARNING]
